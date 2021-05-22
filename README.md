@@ -29,7 +29,7 @@ With that, we’ve come to the end of this analysis. The following are conclusio
 * Lowest shipping mode is on the Same Day
 
 ## References
-* Pandas user guide: (https://pandas.pydata.org/docs/user_guide/index.html)
+* Pandas user guide: <https://pandas.pydata.org/docs/user_guide/index.html>
 * Matplotlib user guide: (https://matplotlib.org/3.3.1/users/index.html)
 * Seaborn user guide & tutorial: (https://seaborn.pydata.org/tutorial.html)
 * Stackoverflow Community (Get answers of any problems): (https://stackoverflow.com/questions)
