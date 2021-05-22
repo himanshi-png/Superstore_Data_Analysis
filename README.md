@@ -8,7 +8,7 @@ This project, I analysed the areas where there are least sales of a Superstore I
 how are the sales of each category is divided across the regions, how are the Sales across each segment, which State has the lowest sales and which City has the lowest sales. I completed this task for my internship with The Sparks Foundation.
 
 ## About the Dataset
-The given dataset was given as a task from the Sparks Foundation (https://www.thesparksfoundationsingapore.org/).With this dataset I am tried to visualize the sales of category, sub-category in each states and country to achieve the objective of as of which are the areas where business is low.
+The given dataset was given as a task from the Sparks Foundation <https://www.thesparksfoundationsingapore.org/>.With this dataset I am tried to visualize the sales of category, sub-category in each states and country to achieve the objective of as of which are the areas where business is low.
 The name of the Dataset used for this projects is SampleSuperstore.csv. There are 9994 rows and 13 columns with each row containing data about commodities.
 
 I have used be using Python 3 for this analysis. The Libraries/Packages I used in this projects are as follows:
@@ -30,8 +30,8 @@ With that, we’ve come to the end of this analysis. The following are conclusio
 
 ## References
 * Pandas user guide: <https://pandas.pydata.org/docs/user_guide/index.html>
-* Matplotlib user guide: (https://matplotlib.org/3.3.1/users/index.html)
-* Seaborn user guide & tutorial: (https://seaborn.pydata.org/tutorial.html)
-* Stackoverflow Community (Get answers of any problems): (https://stackoverflow.com/questions)
-* Python solutions in Geeksforgeeks (Solutions made easy): (https://www.geeksforgeeks.org/python-programming-language/)
-* Opendatasets Python library (Choosing and using datasets in python made easy): https://github.com/JovianML/opendatasets
+* Matplotlib user guide: <https://matplotlib.org/3.3.1/users/index.html>
+* Seaborn user guide & tutorial: <https://seaborn.pydata.org/tutorial.html>
+* Stackoverflow Community (Get answers of any problems): <https://stackoverflow.com/questions>
+* Python solutions in Geeksforgeeks (Solutions made easy): <https://www.geeksforgeeks.org/python-programming-language/>
+* Opendatasets Python library (Choosing and using datasets in python made easy): <https://github.com/JovianML/opendatasets>
